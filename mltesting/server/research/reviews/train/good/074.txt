@@ -1,0 +1,5 @@
+4.0
+
+It is a big and useful phonlet, wonderful battery, good resolution and speed but it can't sync contacts with google.
+
+Not sync contacts with google account is a big mistake from Huawei (e-mail, google drive and similar stuff work with no problem, only google contacts fail).

@@ -1,0 +1,7 @@
+4
+
+It is unlocked and it works great with T-Mobile right outta the box! One down fall imo is that it comes shipped with KitKat so I'm stuck w KK lame but there is an update 5.0.2 out according to at&t and Samsung website.
+
+Anyone figure out how to get a forced upgrade would you be so kind to reply and share here and comment thank you.
+
+Justin CramDyingJediHere is cut and paste from SamsungAT&T Galaxy ALPHA Android 5.0.2 Lollipop Firmware Details:Android Build: 5.0.2Baseband Version: G850AUCU1BOC6Kernel Version: 3.4.0-4486591 dpi@SWDD3915 #1Build#: LRX22G.G850AUCU1BOC6.

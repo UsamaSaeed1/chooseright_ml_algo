@@ -1,0 +1,7 @@
+3.0
+
+Please be aware that unlike black color model, white one is not a U.S. model. 
+
+The black phone is truly ALE-L04 model configured for US market supporting 4G LTE bands on major US carriers networks.
+
+White model is ALE-L21, which does not support US 4G LTE networks.

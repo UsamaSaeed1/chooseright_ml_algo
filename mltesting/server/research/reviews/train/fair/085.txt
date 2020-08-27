@@ -1,0 +1,5 @@
+2.0
+
+A few issues but the main one is: Poor signal reception. 
+
+Looses signal where other phones on same network has signal.

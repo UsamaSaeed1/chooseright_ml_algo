@@ -1,0 +1,5 @@
+2.0
+
+Does not work well with T-Mobile.
+
+T-Mobile closes off some towers to non-T-Mobile phones.

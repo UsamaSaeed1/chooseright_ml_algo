@@ -1,0 +1,5 @@
+1.0
+
+Locks accidentally when used. Screen is too small to read text message.
+
+Poor design.

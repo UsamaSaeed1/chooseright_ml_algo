@@ -1,0 +1,5 @@
+2.0
+
+It doesn't make or receive calls.
+
+Poor hardware is used.
